@@ -52,7 +52,7 @@ this method will takes in 4 input parameters:
 
 `vat`: set to rrue if there is a vat to apply.
 
-`vatPercentage`: the value of this parameter is irrelevant if discount boolean is set to false.
+`vatPercentage`: the value of this parameter is irrelevant if vat boolean is set to false.
 
 <img width="739" alt="4-invoice" src="https://github.com/Calisthrone/Invoicing-Automated-Test/assets/76989642/38441a6c-591d-41b8-afbf-6694bb39e234">
 
